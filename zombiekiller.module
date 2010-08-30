@@ -1,15 +1,5 @@
 <?php
-// $Id$
-
-/**
- * @file
- * This module lets you kill zombies. No kidding.
- *
- * Authors:
- *   Joakim Stai (ximo) <http://drupal.org/user/88701>
- *   Dick Olsson (dixon_) <http://drupal.org/user/239911>
- */
-
+/
 /**
  * Implementation of hook_perms().
  */
